@@ -219,3 +219,9 @@ Observé que solo había tres registros con valores atípicos en `start_station_
 **Decisión de Exclusión**
 
 Observé que los valores atípicos mayores a 12.000 minutos en `tripduration_m` solo corresponden a 2 registros. Para mejorar la calidad de los datos y la distribución en el análisis, decidí eliminar estos registros.
+
+### **`birth_year`**
+
+![Captura de pantalla 2024-08-17 210032](https://github.com/user-attachments/assets/1519116c-cf25-46f1-9a1e-6a2525a4a9bd)
+
+El gráfico revela valores atípicos para los años de nacimiento anteriores a 1941. Al analizar la cantidad de usuarios en esta categoría, se identificaron 72 casos, lo que representa solo el 0.14% del total de la base de datos. Dado que todos estos usuarios pertenecían al tipo Subscriber y eran pocos, se decidió eliminarlos del análisis para mantener la precisión y relevancia de los resultados
