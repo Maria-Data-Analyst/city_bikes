@@ -51,7 +51,8 @@ COUNTIF(customer_plan IS NULL) AS nulos_customer_plan,
 
 Observé que la variable `customer_plan` tenía **50,000** valores nulos, lo que indicaba que no contenía ningún valor válido. Por lo tanto, decidí excluirla del análisis. Además, al explorar más a fondo los valores nulos en la variable `birth_year`, descubrí lo siguiente:
 
-- **4,319** de estos valores nulos pertenecían al tipo de usuario `Customer`, lo cual representaba el **71.31%**, dado que había un total de **6,057** usuarios de este tipo.
+- **4,319** de estos valores nulos pertenecían al tipo de usuario `Customer`, lo cual representaba el **71.31%**, dado que había un total de **6,057** usuarios de este tipo. Además, estos mismos 4,319 valores nulos coinciden con la variable gender = "unknown", que cuenta con un total de 5,119 registros, lo que equivale al 84% del total de usuarios con género desconocido. Por lo tanto, se ha decidido no eliminarlos ni imputarles valores, sino tratarlos de forma aislada mediante filtros por género
+- 
 - Los **320** valores nulos restantes correspondían a usuarios del tipo `Subscriber`, lo que representaba el **0.73%** del total de **43,943** usuarios de este tipo.
 
 Dado lo anterior, tomé la decisión de mantener los valores nulos de los usuarios `Customer`, mientras que los valores nulos en `birth_year` para los usuarios `Subscriber` los imputé con el promedio.
