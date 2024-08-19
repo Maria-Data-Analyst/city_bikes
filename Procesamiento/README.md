@@ -225,4 +225,13 @@ Observé que los valores atípicos mayores a 12.000 minutos en `tripduration_m` 
 
 ![Captura de pantalla 2024-08-17 210032](https://github.com/user-attachments/assets/1519116c-cf25-46f1-9a1e-6a2525a4a9bd)
 
-El gráfico revela valores atípicos para los años de nacimiento anteriores a 1941. Al analizar la cantidad de usuarios en esta categoría, se identificaron 72 casos, lo que representa solo el 0.14% del total de la base de datos. Dado que todos estos usuarios pertenecían al tipo Subscriber y eran pocos, se decidió eliminarlos del análisis para mantener la precisión y relevancia de los resultados
+El gráfico revela valores atípicos para los años de nacimiento anteriores a 1941. Al analizar la cantidad de usuarios en esta categoría, se identificaron 72 casos, lo que representa solo el 0.14% del total de la base de datos. Dado que todos estos usuarios pertenecían al tipo Subscriber y eran pocos, se decidió eliminarlos del análisis para mantener la precisión y relevancia de los resultados.
+
+## Histogramas
+
+Manejé algunos valores outliers y así es como se ve la distribución de los datos en las variables. Observé que siguen existiendo sesgos y datos outliers, pero estos se encuentran en una cantidad representativa, por lo que decidí no eliminar ningún dato adicional. En lugar de eliminarlos, traté los outliers mediante una segmentación por cuartiles detallada en la siguiente sección.
+
+![Captura de pantalla 2024-08-18 200817](https://github.com/user-attachments/assets/6ee40938-bd17-402d-a731-d2f54e383e22)
+
+
+[Análisis Exploratorio](https://github.com/Maria-Data-Analyst/city_bikes/blob/Consultas-Query/AED/analisis_exploratorio.md)
