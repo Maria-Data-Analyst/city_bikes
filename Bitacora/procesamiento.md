@@ -55,68 +55,8 @@ Observé que la variable `customer_plan` tenía **50,000** valores nulos, lo que
 - 
 - Los **320** valores nulos restantes correspondían a usuarios del tipo `Subscriber`, lo que representaba el **0.73%** del total de **43,943** usuarios de este tipo.
 
-Dado lo anterior, tomé la decisión de mantener los valores nulos de los usuarios `Customer`, mientras que los valores nulos en `birth_year` para los usuarios `Subscriber` los imputé con el promedio.
+En vista de lo anterior, se tomó la decisión de mantener todos los valores nulos y manejarlos como una categoría de datos desconocidos para preservar la integridad del análisis
 
-### Imputación
-
-Para realizar un procedimiento adecuado, primero visualicé los datos en Google Colab para observar la distribución de los años de nacimiento, filtrando únicamente a los usuarios de tipo `Subscriber`.
-
-![Distribución de Usuarios Subscriber](https://github.com/user-attachments/assets/e137e599-4d50-482d-abad-6cf9771356d1)
-
-Dado que la imagen mostraba valores atípicos, específicamente aquellos menores a 1941, decidí excluirlos temporalmente para calcular un promedio más preciso. Luego, imputé los datos faltantes con este valor promedio y finalmente volví a unir todos los datos.
-
-```sql
--- 1. Valores con los que se va a imputar
-WITH valores_imputacion AS (
-  SELECT
-    CAST(ROUND(AVG(birth_year)) AS INT64) AS avg_subscriber
-  FROM `city-bikes-1.dataset.trips`
-  WHERE usertype = "Subscriber" AND birth_year IS NOT NULL AND birth_year > 1940
-),
-
--- 2. Imputar valores nulos
-imputacion AS (
-  SELECT
-    tripduration,
-    stoptime,
-    start_station_id,
-    start_station_name,
-    start_station_latitude,
-    start_station_longitude,
-    end_station_id,
-    end_station_name,
-    end_station_latitude,
-    end_station_longitude,
-    bikeid,
-    usertype,
-    CASE 
-      WHEN usertype = "Subscriber" AND birth_year IS NULL THEN (SELECT avg_subscriber FROM valores_imputacion)
-      ELSE birth_year
-    END AS birth_year,
-    gender
-    
-  FROM `city-bikes-1.dataset.trips`
-)
-
--- 3. Seleccionar las variables 
-SELECT 
-  tripduration,
-  stoptime,
-  start_station_id,
-  start_station_name,
-  start_station_latitude,
-  start_station_longitude,
-  end_station_id,
-  end_station_name,
-  end_station_latitude,
-  end_station_longitude,
-  bikeid,
-  usertype,
-  birth_year,
-  gender
-FROM imputacion;
-
-```
 
 ## Identificar Valores Duplicados
 ``` sql
