@@ -23,7 +23,7 @@ Para la elaboración de este reporte, contamos con un [dataset](https://drive.go
 
 ## Índice
 
-* [**Reporte**](https://lookerstudio.google.com/reporting/de0d90e8-c84e-4ac2-a808-8323ede69367)
+* [**Reporte**](https://github.com/Maria-Data-Analyst/city_bikes/blob/Consultas-Query/Reporte.md)
 * [**Dashboard**](https://lookerstudio.google.com/reporting/de0d90e8-c84e-4ac2-a808-8323ede69367)
 
 <details>
