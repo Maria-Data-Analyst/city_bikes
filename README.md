@@ -19,7 +19,7 @@ Este reporte no solo servirá como una herramienta para comprender el rendimient
 
 ## Insumos
 
-Para la elaboración de este reporte, contamos con un [dataset](https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-citi-bike?project=data-sandbox-319716&folder=&organizationId=) público proporcionado por el programa Citi Bike. Este conjunto de datos incluye información detallada sobre los viajes realizados, permitiendo un análisis exhaustivo de las métricas de uso diario y las tendencias históricas. Los datos abarcan aspectos clave como la duración de los viajes, la demografía de los usuarios, y el tipo de suscripción, proporcionando una base sólida para generar un reporte que apoye la toma de decisiones estratégicas.
+Para la elaboración de este reporte, contamos con un [dataset](https://drive.google.com/file/d/11mNSb16cXyjuSu4j0Ro-66Ezm1nXb6zo/view?usp=sharing) público proporcionado por el programa Citi Bike. Este conjunto de datos incluye información detallada sobre los viajes realizados, permitiendo un análisis exhaustivo de las métricas de uso diario y las tendencias históricas. Los datos abarcan aspectos clave como la duración de los viajes, la demografía de los usuarios, y el tipo de suscripción, proporcionando una base sólida para generar un reporte que apoye la toma de decisiones estratégicas.
 
 ## Índice
 
