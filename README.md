@@ -12,7 +12,7 @@ El programa de bicicletas compartidas Citi Bike, reconocido como el más grande 
 
 2. **Métricas Históricas:**
    - Determinar el total acumulado de viajes realizados desde el inicio del programa.
-   - Analizar el crecimiento del número de viajes diarios a lo largo del tiempo para identificar tendencias de expansión (opcional).
+   - Analizar el crecimiento del número de viajes diarios a lo largo del tiempo para identificar tendencias de expansión .
    - Desglosar el total de viajes realizados por usuarios según género, edad y tipo de suscripción, proporcionando un perfil demográfico detallado de la base de usuarios.
 
 Este reporte no solo servirá como una herramienta para comprender el rendimiento actual del programa, sino que también proporcionará una base sólida para la toma de decisiones informadas que guíen el futuro de Citi Bike bajo la nueva dirección.
