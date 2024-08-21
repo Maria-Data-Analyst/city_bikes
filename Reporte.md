@@ -70,6 +70,33 @@
 2. **Mejoras Operativas:** Implementar mejoras en la gestión y el mantenimiento para asegurar una flota en buen estado.
 3. **Estrategias de Inversión:** Evaluar la inversión en nuevas bicicletas y en sistemas de monitoreo para prevenir futuros problemas.
 
+2222222222222222222222222222222
+### **Análisis de Viajes por Rango Etario y Género**
+
+![image](https://github.com/user-attachments/assets/fb7a741f-75dc-4bde-b342-f96ec188cbd7)
+
+
+1. **Predominio Masculino en Todos los Rangos Etarios:**
+   - En todos los rangos etarios, los hombres representan una proporción significativamente mayor de los viajes en comparación con las mujeres. Por ejemplo, en el rango de 22-34 años, los hombres realizan más del doble de viajes que las mujeres (14,100 vs. 5,271). Esta tendencia se mantiene en todos los grupos de edad, lo que sugiere que Citi Bike es más popular entre los hombres.
+  
+2. **Disminución en el Uso con el Aumento de la Edad:**
+   - A medida que aumenta la edad, el número de viajes disminuye notablemente. El rango de 22-34 años es el más activo, con un total de 19,448 viajes combinados (hombres, mujeres, y desconocidos).
+
+3. **Alta Proporción de Género Desconocido en el Rango Etario Desconocido:**
+   - Es notable que el grupo con rango etario desconocido tenga una cifra considerable de 4,639 viajes, todos ellos con género desconocido. Esto podría indicar problemas en la recolección de datos 
+   
+   - **Preocupación Adicional:** La falta de claridad en la edad de los usuarios plantea preguntas sobre cómo se está gestionando el uso del servicio por parte de menores de edad. Es crucial asegurar que se están tomando medidas adecuadas para verificar la edad de los usuarios y garantizar el cumplimiento de las normativas.
+
+
+5. **Desbalance de Género en Usuarios de Mayor Edad:**
+   - A partir del rango de edad 46-60 y especialmente en el grupo de 61-83 años, la diferencia de género se amplía aún más. En el grupo de 61-83 años, los hombres realizan casi cuatro veces más viajes que las mujeres (2,413 vs. 638).
+   
+
+### recomendaciones
+1. **Mejora de Captura de Datos:** Implementar mejoras en los procesos de registro para reducir la cantidad de información desconocida.
+2. **Fomento del Uso en Mujeres y Mayores:** Desarrollar estrategias y programas específicos para atraer a más mujeres y usuarios de mayor edad.
+3. **Mantener y Crecer en el Segmento Joven:** Seguir enfocándose en el grupo de 22-34 años, que es el más activo, mientras se buscan oportunidades para aumentar la participación en otros grupos.
+4. **Verificación de Edad:** Revisar y fortalecer los procesos de verificación de edad para asegurar el cumplimiento de las normativas y proteger a los menores de edad.
 
 
 
