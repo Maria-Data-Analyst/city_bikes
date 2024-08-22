@@ -7,6 +7,7 @@
 
 
 
+
 ## Resumen de viajes por año 
 
 ![image](https://github.com/user-attachments/assets/38a94b30-b068-4a24-bae4-a190041f5bd9)
@@ -26,13 +27,8 @@
     **Observación:** Si el ritmo de viajes registrado hasta mayo se mantiene constante, el total anual de 2018 podría superar el total de 2017 (24,138 viajes).
 
 
-## Recomendaciones para la CEO
 
-1. **Monitoreo Continuo:** Continuar monitoreando el desempeño de los viajes en los próximos meses para ajustar las estrategias y garantizar el objetivo de alcanzar o superar el total de 2017.
-2. **Optimización de Recursos:** Asegurarse de que los recursos estén alineados con la demanda esperada para maximizar el número de viajes en la segunda mitad del año.
-3. **Estrategias de Crecimiento:** Considerar estrategias adicionales para impulsar el número de viajes diarios y capitalizar la tendencia positiva observada hasta ahora.
 
-2222222222222222222222222222222
 
 ## Análisis de la Disminución de Bicicletas en 2018
 
@@ -40,7 +36,7 @@
 
 
 
-## Insights y Posibles Causas
+### Insights y Posibles Causas
 
 1. **Crecimiento Fuerte Anterior:**
    - De 2015 a 2017, hubo un notable crecimiento en el número de bicicletas, indicando una expansión efectiva y creciente aceptación.
@@ -50,28 +46,24 @@
 
      **a. Daños o Pérdidas de Bicicletas:**
      - **Posible Causa:** Un incremento en los daños o pérdidas de bicicletas puede reducir el número total disponible.
-     - **Acción Recomendada:** Revisar los informes de mantenimiento y las incidencias relacionadas con las bicicletas dañadas o robadas.
+    
 
      **b. Problemas de Gestión y Mantenimiento:**
      - **Posible Causa:** Deficiencias en la gestión de la flota, como mantenimiento inadecuado o falta de reemplazo de bicicletas defectuosas.
-     - **Acción Recomendada:** Evaluar los procedimientos de mantenimiento y reparación para asegurar que las bicicletas sean reparadas y reemplazadas adecuadamente.
+   
 
      **c. Reducción en la Adquisición de Nuevas Bicicletas:**
      - **Posible Causa:** Menor inversión en la compra de nuevas bicicletas podría resultar en un número menor disponible en comparación con años anteriores.
-     - **Acción Recomendada:** Revisar los presupuestos y las decisiones de inversión para verificar si hubo una reducción en la adquisición de nuevas bicicletas.
+     
 
 3. **Impacto en la Operación y Recomendaciones:**
 
    - **Efecto Operativo:** La reducción en el número de bicicletas puede afectar la disponibilidad y la satisfacción de los usuarios.
    
-**Recomendaciones:**
 
-1. **Auditoría Completa:** Revisar el estado de las bicicletas y los informes de mantenimiento para detectar problemas.
-2. **Mejoras Operativas:** Implementar mejoras en la gestión y el mantenimiento para asegurar una flota en buen estado.
-3. **Estrategias de Inversión:** Evaluar la inversión en nuevas bicicletas y en sistemas de monitoreo para prevenir futuros problemas.
 
-2222222222222222222222222222222
-### **Análisis de Viajes por Rango Etario y Género**
+
+## **Análisis de Viajes por Rango Etario y Género**
 
 ![image](https://github.com/user-attachments/assets/fb7a741f-75dc-4bde-b342-f96ec188cbd7)
 
@@ -92,11 +84,59 @@
    - A partir del rango de edad 46-60 y especialmente en el grupo de 61-83 años, la diferencia de género se amplía aún más. En el grupo de 61-83 años, los hombres realizan casi cuatro veces más viajes que las mujeres (2,413 vs. 638).
    
 
-### recomendaciones
-1. **Mejora de Captura de Datos:** Implementar mejoras en los procesos de registro para reducir la cantidad de información desconocida.
-2. **Fomento del Uso en Mujeres y Mayores:** Desarrollar estrategias y programas específicos para atraer a más mujeres y usuarios de mayor edad.
-3. **Mantener y Crecer en el Segmento Joven:** Seguir enfocándose en el grupo de 22-34 años, que es el más activo, mientras se buscan oportunidades para aumentar la participación en otros grupos.
-4. **Verificación de Edad:** Revisar y fortalecer los procesos de verificación de edad para asegurar el cumplimiento de las normativas y proteger a los menores de edad.
+
+## **Análisis de Viajes por Tipo de Usuario y Duración del Viaje**
+
+
+![image](https://github.com/user-attachments/assets/5ad47d30-bd47-4b87-80e0-83f559b753f3)
+
+![image](https://github.com/user-attachments/assets/0aeff2bd-cde1-479d-a12a-c843d5631536)
+
+
+
+### **Insights y Observaciones**
+
+1. **Preferencia por Viajes Cortos (1-24 minutos):**
+   - Tanto para **Subscribers** como para **Customers**, la mayoría de los viajes se realizan en el rango de 1 a 24 minutos. El 90.3% de los viajes de los **Subscribers** (39,625 de 43,866) y el 62.5% de los viajes de los **Customers** (3,786 de 6,057) caen en este rango.
+   - **Insight:** Los usuarios de Citi Bike prefieren realizar viajes cortos, probablemente por la conveniencia y el bajo costo asociado a este rango de tiempo.
+  
+
+4. **Impacto de las Tarifas en el Comportamiento de Uso:**
+
+   -Entre los Customers, un 37.5% de los viajes superan el límite de 30 minutos, lo que podría estar relacionado con los cargos adicionales aplicables por cada 15 minutos extra.
+
+    - **Insight:** Es posible que  los usuarios Customers con pases diarios  no comprendan completamente que pueden evitar estos cargos adicionales devolviendo la bicicleta antes de que         se cumplan los 30  minutos, respectivamente. Pueden seguir utilizando la bicicleta con viajes ilimitados dentro de las 24 horas, siempre que respeten estos límites de tiempo.
+
+
+## Recomendaciones para la CEO:
+
+**Resumen de Viajes por Año**
+
+1. **Monitoreo Continuo:** Seguir de cerca el desempeño de viajes para ajustar estrategias y alcanzar o superar el total de 2017.
+2. **Optimización de Recursos:** Alinear recursos con la demanda esperada para maximizar los viajes en la segunda mitad del año.
+3. **Estrategias de Crecimiento:** Implementar nuevas estrategias para aumentar el número de viajes diarios y aprovechar la tendencia positiva.
+
+**Análisis de la Disminución de Bicicletas en 2018**
+
+1. **Auditoría Completa:** Revisar el estado de las bicicletas y los informes de mantenimiento.
+2. **Mejoras Operativas:** Optimizar la gestión y mantenimiento de la flota.
+3. **Estrategias de Inversión:** Considerar inversión en nuevas bicicletas y sistemas de monitoreo para prevenir problemas.
+
+**Análisis de Viajes por Rango Etario y Género**
+
+1. **Mejora de Captura de Datos:** Reducir la cantidad de información desconocida en el registro de usuarios.
+2. **Fomento del Uso en Mujeres y Mayores:** Desarrollar estrategias para atraer más mujeres y usuarios mayores.
+3. **Crecimiento en el Segmento Joven:** Mantener el enfoque en el grupo de 22-34 años y explorar formas de aumentar la participación en otros grupos.
+4. **Verificación de Edad:** Fortalecer la verificación de edad para cumplir normativas y proteger a menores.
+
+**Análisis de Viajes por Tipo de Usuario y Duración del Viaje**
+
+1. **Monitorear Cargos Adicionales:** Evaluar el impacto de los cargos adicionales en la satisfacción y el uso repetido del servicio.
+2. **Optimizar Comunicación sobre Tarifas:** Mejorar la información para ayudar a los usuarios a evitar cargos adicionales y gestionar mejor su tiempo de viaje.
+3. **Incentivar la Suscripción:** Promover los beneficios de la suscripción anual, especialmente para **Customers** que incurren en cargos adicionales frecuentes.
+4. **Recomendación:** Mantener la estructura tarifaria que incentive los viajes cortos, ya que representan la mayoría de la actividad.
+
+
 
 
 
