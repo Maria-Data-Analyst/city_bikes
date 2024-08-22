@@ -24,7 +24,7 @@ Para la elaboración de este reporte, contamos con un [dataset](https://drive.go
 ## Índice
 
 * [**Reporte**](https://github.com/Maria-Data-Analyst/city_bikes/blob/Consultas-Query/Reporte.md)
-* [**Dashboard**](https://lookerstudio.google.com/reporting/de0d90e8-c84e-4ac2-a808-8323ede69367)
+* [**Dashboard**](https://lookerstudio.google.com/reporting/c3c25d71-65d2-4d50-9f05-005e491d11d2)
 
 <details>
   <summary>Ficha Técnica</summary>
@@ -33,8 +33,6 @@ Para la elaboración de este reporte, contamos con un [dataset](https://drive.go
   1. [**Procesamiento y Preparación de la Base de Datos**](https://github.com/Maria-Data-Analyst/city_bikes/blob/Consultas-Query/Bitacora/procesamiento.md)
   
 </details>
-
-
 
 
 ### Herramientas y Lenguajes 
