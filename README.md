@@ -31,10 +31,7 @@ Para la elaboración de este reporte, contamos con un [dataset](https://drive.go
     
   
   1. [**Procesamiento y Preparación de la Base de Datos**](https://github.com/Maria-Data-Analyst/city_bikes/blob/Consultas-Query/Bitacora/procesamiento.md)
-     
-  2. [**Análisis Exploratorio de Datos**](https://github.com/Maria-Data-Analyst/riesgo_relativo/blob/Consultas-Query/Ficha_tecnica/AED.md)
-     
-  3.  [**Técnica de análisis**](https://github.com/Maria-Data-Analyst/riesgo_relativo/blob/Consultas-Query/Ficha_tecnica/tecnica_analisis.md)     
+  
 </details>
 
 
