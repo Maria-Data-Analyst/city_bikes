@@ -169,9 +169,9 @@ El gráfico revela valores atípicos para los años de nacimiento anteriores a 1
 
 ## Histogramas
 
-Manejé algunos valores outliers y así es como se ve la distribución de los datos en las variables. Observé que siguen existiendo sesgos y datos outliers, pero estos se encuentran en una cantidad representativa, por lo que decidí no eliminar ningún dato adicional. En lugar de eliminarlos, traté los outliers mediante una segmentación por cuartiles detallada en la siguiente sección.
+Manejé algunos valores outliers y así es como se ve la distribución de los datos en las variables. Observé que siguen existiendo sesgos y datos outliers, pero estos se encuentran en una cantidad representativa, por lo que decidí no eliminar ningún dato adicional. En lugar de eliminarlos, traté los outliers mediante segmentaciones con filtros en el dashboard.
 
 ![Captura de pantalla 2024-08-18 200817](https://github.com/user-attachments/assets/6ee40938-bd17-402d-a731-d2f54e383e22)
 
 
-[Análisis Exploratorio](https://github.com/Maria-Data-Analyst/city_bikes/blob/Consultas-Query/AED/analisis_exploratorio.md)
+[Dashboard](https://lookerstudio.google.com/reporting/c3c25d71-65d2-4d50-9f05-005e491d11d2)
