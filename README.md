@@ -7,8 +7,8 @@ El programa de bicicletas compartidas Citi Bike, reconocido como el más grande 
 ## Objetivos del Proyecto
 
 1. **Métricas de Uso en un Día Promedio:**
-   - Analizar y presentar el número promedio de viajes realizados en un día típico.
-   - Calcular y reportar las estadísticas clave de la duración de los viajes, incluyendo el valor máximo, mínimo, promedio y la desviación estándar.
+   - Analizar y presentar el número promedio de viajes realizados en un día .
+   - Calcular y reportar las estadísticas clave de la duración de los viajes, incluyendo el valor máximo, mínimo
 
 2. **Métricas Históricas:**
    - Determinar el total acumulado de viajes realizados desde el inicio del programa.
