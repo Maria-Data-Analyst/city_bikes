@@ -11,24 +11,32 @@
 
 ## Resumen de viajes por año 
 
+* Cantidad de viajes totales por año
+  
 ![image](https://github.com/user-attachments/assets/38a94b30-b068-4a24-bae4-a190041f5bd9)
 
 
+* Cantidad de viajes del mes de mayo de 2017
+  
+![Captura de pantalla 2024-09-25 184210](https://github.com/user-attachments/assets/33ad8e52-b2b2-4d0f-9a91-19b8a980f655)
+
+* Cantidad de viajes de mayo de 2018
+  
+![Captura de pantalla 2024-09-25 184234](https://github.com/user-attachments/assets/b03d40df-3b2e-478b-80dd-60a4dd1b57f0)
+
+
 - **Progreso en 2018 (Hasta Mayo):**
-  - En los primeros cinco meses de 2018, se han registrado 12,011 viajes. Este total representa aproximadamente el 49.76% del total de viajes registrados en 2017.
-    
-    ( 12,011 / 24,138 ) × 100 = 49.76%
+  - En los primeros cinco meses de 2018, se han registrado 12,011 viajes. En mayo de 2018, se registraron 3,861 viajes, lo cual representa un aumento en comparación con los 2,304 viajes registrados en mayo de 2017. Además, el promedio diario de viajes ha incrementado de 74 viajes por día en mayo de 2017 a 124 viajes diarios en mayo de 2018.
 
 - **Proyección Anual de 2018:**
   - **Estimación de Total Anual (si el ritmo se mantiene constante):**
-    Si el ritmo de viajes registrado hasta mayo se mantiene constante, la proyección para el total anual es:
-    
-    12,011 viajes (hasta mayo) × (12 / 5)= 28,826.4 viajes
-    
-    **Observación:** Si el ritmo de viajes registrado hasta mayo se mantiene constante, el total anual de 2018 podría superar el total de 2017 (24,138 viajes).
+    Si el ritmo de viajes registrado en mayo de 2018 se mantiene constante, la proyección anual puede calcularse tomando el promedio diario de 124 viajes y multiplicándolo por 365 días:
 
+    ```
+    124 viajes por día × 365 días = 45,260 viajes anuales estimados para 2018.
+    ```
 
-
+    **Observación:** Si este ritmo diario se mantiene, el total anual de 2018 (45,260 viajes) superaría significativamente el total de 2017 (24,138 viajes).
 
 
 ## Análisis de la Disminución de Bicicletas en 2018
